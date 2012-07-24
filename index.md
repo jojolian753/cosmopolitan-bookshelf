@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Cosmopolitan Bookshelf
-tagline: Literature and philosophy books from around the world!
+title: Home
 ---
 {% include JB/setup %}
 
