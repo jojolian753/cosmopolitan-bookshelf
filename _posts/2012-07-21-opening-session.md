@@ -41,4 +41,11 @@ Since a name was necessary to host those pages, until a name is chosen, the name
 
 How do we chose the book to read?
 
-We decided that we would chose our next book by voting.
+We decided that we would chose our next book by voting. The result of our first
+vote is:
+
+The Last Day of a Condemned Man
+ - Author: Victor Hugo
+ - Published: 1829
+ - original title: Le Dernier jour d'un condamné
+
