@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-tagline: Reading plan
+tagline: reading plan development
 ---
 {% include JB/setup %}
 
