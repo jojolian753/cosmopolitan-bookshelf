@@ -40,7 +40,7 @@ The club's name
 During the meeting, no plausible propositions were made, and the decision was
 postponed to the next meeting to give the participants time to think about one.
 
-Since a name was necessary to host those pages, until a name is chosen, the name
+Since a name was necessary to host those pages, until a name is chosen,
 "The cosmopolitan bookshelf" will be used.
 
 
